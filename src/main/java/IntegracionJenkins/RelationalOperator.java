@@ -2,6 +2,7 @@ package IntegracionJenkins;
 
 public class RelationalOperator {
 
+	
 	/**
 	 * Function to know if one number is greater than another
 	 * @param num1
@@ -11,6 +12,7 @@ public class RelationalOperator {
 	public boolean isGreater(int num1, int num2){
 		return num1 > num2;
 	}
+	
 	
 	/**
 	 * Function to know if one number is less than another
